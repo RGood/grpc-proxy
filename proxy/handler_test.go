@@ -22,8 +22,8 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/mwitkow/grpc-proxy/proxy"
-	pb "github.com/mwitkow/grpc-proxy/testservice"
+	"github.com/RGood/grpc-proxy/proxy"
+	pb "github.com/RGood/grpc-proxy/testservice"
 )
 
 const (
